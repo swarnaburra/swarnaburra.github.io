@@ -3,16 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hi! I’m Swarna, an aspiring software developer. I enjoy building web applications, learning new technologies, and solving real-world problems through code.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Projects
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+FashionMate – A fashion recommendation app using AI
+Library Manager – A Java OOP project for managing books, albums, and movies
+Portfolio Website – Built using GitHub Pages and Jekyll
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Links
 
-
-[jekyll-organization]: https://github.com/jekyll
+GitHub
+LinkedIn.
