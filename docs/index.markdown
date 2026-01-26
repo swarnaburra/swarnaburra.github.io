@@ -1,8 +1,3 @@
----
-layout: default
-title: Swarna's Portfolio
----
-
 # Swarna's Portfolio
 
 ![Swarna](assets/myphoto.jpg)
