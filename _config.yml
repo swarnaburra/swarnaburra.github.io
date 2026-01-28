@@ -1,7 +1,3 @@
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme
-title: Swarna Burra's Homepage
-description: Bookmark this to keep an eye on my project updates!
-Hi! I’m Swarna, an aspiring software developer. I enjoy building web applications, learning new technologies, and solving real-world problems through code.
-
+title: My Portfolio
+description: Portfolio of Swarna
+theme: minima
